@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I am Neha Pandey</h1>
 <h3 align="center">Java Backend Devloper</h3>
 <h3 align="up" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw3ynkZRwIwlDG8BBA_HFkzd&ust=1672930020612000&source=images&cd=vfe&ved=2ahUKEwic8JWOlK78AhWn_jgGHV0zAa8QjRx6BAgAEAo">
