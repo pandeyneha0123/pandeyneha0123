@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/061350437ff51304b22ab0aee922e0c58eb4b643c365fe0a615eac1c759b2ca9/68747470733a2f2f62696e617279696e666f726d61746963732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f4a6176612d446576656c6f7065722d536b696c6c732e6a7067
+
 <h1 align="center">Hi 👋, I'm Neha Pandey</h1>
 <h3 align="center"> Java Backend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU">
@@ -24,7 +24,7 @@ https://camo.githubusercontent.com/061350437ff51304b22ab0aee922e0c58eb4b643c365f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neha pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha pandey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neha-pandey-b7b687208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha pandey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neha pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha pandey" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyneha0123" alt="pandeyneha0123" /></a> </p> 
