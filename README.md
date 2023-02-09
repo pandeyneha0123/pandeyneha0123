@@ -24,7 +24,7 @@
 - 📫 How to reach me **nehushree0194@gmail.com**
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connet with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/neha-pandey-b7b687208/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="neha pandey" height="40" width="80" /></a>
 <a href="https://www.hackerrank.com/nehushree0194" target="blank"><img align="center" src="https://camo.githubusercontent.com/cfab198e94d98bbfd9f450da16977ef8e17d4f5e37802fe7add16b33c4076abd/68747470733a2f2f73722d6d61726b6574706c6163652d70726f642e73332e616d617a6f6e6177732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30382f4861636b657252616e6b312e706e67" alt="neha pandey" height="30" width="40" /></a>
