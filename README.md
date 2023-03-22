@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 👨‍💻 All of my projects are available at [https://pandeyneha0123.github.io/](https://pandeyneha0123.github.io/)
+- 👨‍💻 All of my projects are available at [https://pandeyneha0123.github.io/]
 
 - 💬 Ask me about ****Java, Spring Boot ****
 
